@@ -8,6 +8,7 @@ Focused on consistency, patterns, and problem-solving.
 - Two Sum (Array, Hash Map)
 - Best time to buy and sell a stock
 - Contains Duplicates
+- Valid Anagram
 
 ## Language
 - Python
